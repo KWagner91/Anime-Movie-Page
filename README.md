@@ -10,4 +10,7 @@ Udacity "Intro to Programming" course Movie Website project:
   - Added additional Movie description (e.g. director) to existing code
 
 
-### Open in Webbrowser to View Project
+## Installation
+Download Python Version 2.7xx from the official Python Homepage
+
+Load Website by executing the following UNIX command: python entertainment_center.py
